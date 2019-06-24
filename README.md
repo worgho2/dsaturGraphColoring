@@ -7,4 +7,4 @@ input: "grafo09.csv" (The .csv input file contains the list of adjacencies of th
 file contains a vertix followed by its adjacent vertix, separated by commas.
 
 output: "saida.csv" (Each line contains a pair of vertex, color. Separated by commas.
-output: "resultados.csv" (Contains: number of vertexes, number of edges, minimum degree of vertixes, maximum degree of vertices, average degree of vertices, standard deviation of vertices degree, number of colors)
+output: "resultados.csv" (Contains: number of vertexes, number of edges, minimum degree of vertexes, maximum degree of vertexes, average degree of vertexes, standard deviation of vertexes degree, number of colors)
